@@ -6,6 +6,9 @@
 
 	<link rel="icon" href="http://www.itcolima.edu.mx/assets/img/favicon.ico" type="image/ico">
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+    
+
+
     <link rel="stylesheet" type="text/css" href="css/css/foundation.css">
     <link rel="stylesheet" type="text/css" href="css/css/foundation.min.css">
 
@@ -74,58 +77,5 @@
               </ul> <!-- fin UL principal -->
           </div> <!-- fin de nav bar -->
       </div>    <!-- fin de nav -->
-
-
-      <div id="cuerpo">
-
-        <div id="izq" class="info">
-
-            <p align="justify" ><font size=3><b>¿Qué es la Consultoría Empresarial?</b></font> 
-            </p>
-
-            <p align="justify" id="pizq">
-                Es la aplicación del conocimiento enfocada al medio empresarial público
-                y privado, ofreciendo servicios de asesoría, auditoria, asistencia técnica,
-                e interventoría, contribuyendo en la solución de problemas y buscando el desarrollo
-                de la competitividad y el alto desempeño de las organizaciones.
-                Además de ser un servicio de asesoramiento contratado por y proporcionado a organizaciones
-                por personas especialmente capacitadas y calificadas que prestan asistencia, de manera
-                objetiva e independiente, a la organización cliente para poner al descubierto los
-                problemas de gestión, analizarlos, recomendar soluciones a esos problemas y coadyuvar,
-                si se les solicita, en la aplicación de soluciones.
-            </p><br />
-
-            <p>
-
-                <font size=3><b>Objetivo de la Consultoría Empresarial</b></font>   
-            </p>
-            <p align="justify"id="pder">
-                Proporcionar a las empresas públicas y privadas los fundamentos, metodologías, herramientas 
-                y apoyo profesional especializado, soluciones orientadas al logro de un desarrollo integrado 
-                y armónico de las funciones organizacionales involucradas.
-            </p><br />
-                <p align="justify">
-
-                    <b>Si desea participar en la encubadora de proyectos es necesario registrarse.</b>
-                </p><br />
-
-
-                <p align="justify">
-
-                    <b>Si sólo desea información acerca de cómo llevar a la creación de una empresa, de clic en 
-                        <i>"Utilizar Guía."</i></b><br>
-                         
-                    </p>
-
-                </div>
-
-            </div>
-
-
-            <input type="submit" style="Position:Absolute; left:45%; top:97%" name="grabar" value ="Utilizar Guía">
-            <input type="submit" style="Position:Absolute; left:55%; top:97%" name="grabar" value ="Utilizar Herramienta">
-
-
 </body>
-
 </html>
