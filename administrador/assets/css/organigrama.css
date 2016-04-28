@@ -1,0 +1,266 @@
+#imagen_organigrama
+{
+  margin: 0 auto;
+  width: 740px;
+  height: 1344px;
+  /*background-color: yellow;*/
+  /*top: 382px;*/
+  /*left: 270px;*/
+  position: relative;
+  /*border:solid 1px yellow;*/
+}
+
+#director
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 17px;
+  left: 303px;
+  position: absolute;
+}
+#texto_director
+{
+ background-color: white;
+  width: 131px;
+  height: 15px;
+  top: 76px;
+  left: -13px;
+  font-size:7pt;
+  text-align: center;
+  font-family: Arial Black;
+  position: absolute;
+}
+#sub1
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 234px;
+  left: 44px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#texto
+{
+ background-color: white;
+  width: 125px;
+  height: 10px;
+  top: 76px;
+  left: -10px;
+  font-size:6pt;
+  text-align: center;
+  font-family: Arial Black;
+  /*background-color:#CCCCCC;*/
+  position: absolute;
+}
+#sub2
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 234px;
+  left: 302px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub3
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 234px;
+  left: 575px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub4
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 417px;
+  left: 44px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub5
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 417px;
+  left: 252px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub6
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 417px;
+  left: 439px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub7
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 417px;
+  left: 615px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub8
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 573px;
+  left: 45px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub9
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 573px;
+  left: 252px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub10
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 573px;
+  left: 439px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub11
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 573px;
+  left: 615px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub12
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 731px;
+  left: 45px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub13
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 731px;
+  left: 252px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub14
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 731px;
+  left: 439px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub15
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 731px;
+  left: 615px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub16
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 891px;
+  left: 45px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub17
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 891px;
+  left: 252px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub18
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 891px;
+  left: 439px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub19
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 891px;
+  left: 615px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub20
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 1043px;
+  left: 44px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub21
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 1202px;
+  left: 44px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
+#sub22
+{
+ background-color: white;
+  width: 104px;
+  height: 76px;
+  top: 1043px;
+  left: 615px;
+  position: absolute;
+  /*border:solid 1px yellow;*/
+}
