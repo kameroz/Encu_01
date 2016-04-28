@@ -6,12 +6,7 @@
 
 	<link rel="icon" href="http://www.itcolima.edu.mx/assets/img/favicon.ico" type="image/ico">
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="css/css.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="css/slider.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="css/organigrama.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="css/jquery-ui.css" type="text/css" media="screen">
-    <link rel="stylesheet" href="css/bjqs.css" type="text/css" media="screen"> 
-    <link rel="stylesheet" href="css/jquery.dataTables.css" type="text/css"><!-- DataTables CSS -->
+    
 
 
     <link rel="stylesheet" type="text/css" href="css/css/foundation.css">
