@@ -80,10 +80,10 @@
 
         <div id="izq" class="info">
 
-            <p align="justify" ><font size=3><b>¿Qué es la Consultoría Empresarial?</b></font> 
+            <p align="justify" style="COLOR: #000000; BACKGROUND-COLOR: #FFFFFF"><font size=3><b>¿Qué es la Consultoría Empresarial?</b></font> 
             </p>
 
-            <p align="justify" id="pizq">
+            <p align="justify" id="pizq" style="COLOR: #000000; BACKGROUND-COLOR: #FFFFFF">
                 Es la aplicación del conocimiento enfocada al medio empresarial público
                 y privado, ofreciendo servicios de asesoría, auditoria, asistencia técnica,
                 e interventoría, contribuyendo en la solución de problemas y buscando el desarrollo
@@ -95,22 +95,22 @@
                 si se les solicita, en la aplicación de soluciones.
             </p><br />
 
-            <p>
+            <p align="justify" style="COLOR: #000000; BACKGROUND-COLOR: #FFFFFF">
 
                 <font size=3><b>Objetivo de la Consultoría Empresarial</b></font>   
             </p>
-            <p align="justify"id="pder">
+            <p align="justify"id="pder" style="COLOR: #000000; BACKGROUND-COLOR: #FFFFFF">
                 Proporcionar a las empresas públicas y privadas los fundamentos, metodologías, herramientas 
                 y apoyo profesional especializado, soluciones orientadas al logro de un desarrollo integrado 
                 y armónico de las funciones organizacionales involucradas.
             </p><br />
-                <p align="justify">
+                <p align="justify" style="COLOR: #000000; BACKGROUND-COLOR: #FFFFFF">
 
                     <b>Si desea participar en la encubadora de proyectos es necesario registrarse.</b>
                 </p><br />
 
 
-                <p align="justify">
+                <p align="justify" style="COLOR: #000000; BACKGROUND-COLOR: #FFFFFF">
 
                     <b>Si sólo desea información acerca de cómo llevar a la creación de una empresa, de clic en 
                         <i>"Utilizar Guía."</i></b><br>
