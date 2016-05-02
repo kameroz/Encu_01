@@ -29,7 +29,6 @@
  <table width="200" border="0" align="center">  
   <tr> 
 
-   <td>Registro</td>
    <td>Usuario:</td>  
    <td><input type="text" name="usuario" id="usuario"> <font color="#FF0000"></font></td> 
 >>>>>>> origin/master
