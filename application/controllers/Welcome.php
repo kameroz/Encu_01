@@ -21,7 +21,7 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('consultoria');
-		$this->load->view('Entrada_Consultoria.html');
+		$this->load->view('register_view');
 	}
 
 }

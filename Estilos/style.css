@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 
 
 /* tipo de letra -------------------------------------------------------*/
@@ -499,3 +499,21 @@ p { background: #fafafa; color: #2F2F2F; font: 1em "soberana_sansregular", Calib
 
 
 .tec{position: absolute; left:500px; }
+
+ 
+ table {  
+      background:#D8D8D8;  
+      border-radius:10px;    
+      margin: 10px auto;
+      padding: 50px 40px;
+  
+}
+
+input {
+    
+    height: 25px;
+    margin: 10px 0px;
+
+
+ }  
+  
