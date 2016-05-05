@@ -1,0 +1,31 @@
+#caja{
+
+	background: #f0f0f0;
+	width: 210px;
+	border: 1px solid white;
+	margin: 80px auto;
+	padding: 10px;
+	border-radius: 6px;
+}
+
+
+
+
+input[type=text],input[type=password]
+{
+	height: 20px;
+	margin: 0 0 1em 0;
+	border-radius: 3px;
+}
+
+p{
+	background: #f0f0f0;
+	margin: 0 0 5px 0;
+}
+#Regis,#Ol{
+	color: #0000FF;
+}
+
+input[type=submit]{
+	padding: 4px;
+}
