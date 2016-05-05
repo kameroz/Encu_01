@@ -5,7 +5,11 @@
     <title>Consultoría</title>
 
     <link rel="icon" href="http://www.itcolima.edu.mx/assets/img/favicon.ico" type="image/ico">
+<<<<<<< HEAD:application/views/consultoria.php
     <link rel="stylesheet" href="http://localhost:8000/CodeIgniter/Estilos/style.css" type="text/css" media="screen" />
+=======
+    <link rel="stylesheet" href="Estilos/style.css" type="text/css" media="screen" />
+>>>>>>> origin/master:application/views/consultoria.php
     
 
 </head>
@@ -25,9 +29,15 @@
             <div id="logo_sep_nombre_tec">  
                 <div id="logo_sep">
                     <a href="http://www.sep.gob.mx/" target="_blank">
+<<<<<<< HEAD:application/views/consultoria.php
                         <img src="http://localhost:8000/CodeIgniter/Estilos/logoSEP_hoz.png" alt="Logo SEP">                            
                     </a>                              
                     <a><img src="http://localhost:8000/CodeIgniter/Estilos/separador.png" alt="Separador"></a>   
+=======
+                        <img src="Estilos/logoSEP_hoz.png" alt="Logo SEP">                            
+                    </a>                              
+                    <a><img src="Estilos/separador.png" alt="Separador"></a>   
+>>>>>>> origin/master:application/views/consultoria.php
                 </div>  
                 <div id="nombre">
                     <label>Centro de Incubación e Innovación Empresarial &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
@@ -36,7 +46,11 @@
             </div>                         
             <div id="logo_dgest_tec">                      
                 <a href="./Instituto Tecnológico de Colima_files/Instituto Tecnológico de Colima.html">
+<<<<<<< HEAD:application/views/consultoria.php
                     <img src="http://localhost:8000/CodeIgniter/Estilos/logoregistradotec.gif" alt="Logo TEC">                            
+=======
+                    <img src="Estilos/logoregistradotec.gif" alt="Logo TEC">                            
+>>>>>>> origin/master:application/views/consultoria.php
                 </a>                                                   
             </div>
         </div>

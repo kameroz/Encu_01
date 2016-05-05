@@ -76,6 +76,7 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
+<<<<<<< HEAD
 	'username' => 'root',
 	'password' => '',
 	'database' => 'plogin',
@@ -83,6 +84,15 @@ $db['default'] = array(
 	'dbprefix' => '',
 	'pconnect' => True,
 	'db_debug' => True,
+=======
+	'username' => '',
+	'password' => '',
+	'database' => '',
+	'dbdriver' => 'mysqli',
+	'dbprefix' => '',
+	'pconnect' => FALSE,
+	'db_debug' => (ENVIRONMENT !== 'production'),
+>>>>>>> origin/master
 	'cache_on' => FALSE,
 	'cachedir' => '',
 	'char_set' => 'utf8',

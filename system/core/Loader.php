@@ -313,7 +313,11 @@ class CI_Loader {
 			if (file_exists($app_path.$class.'.php'))
 			{
 				require_once($app_path.$class.'.php');
+<<<<<<< HEAD
 				if ( ! class_exists($class, TRUE))
+=======
+				if ( ! class_exists($class, FALSE))
+>>>>>>> origin/master
 				{
 					throw new RuntimeException($app_path.$class.".php exists, but doesn't declare class ".$class);
 				}
